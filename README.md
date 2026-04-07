@@ -16,8 +16,8 @@ This repository contains the completion of **Task 1** for the Data Analytics & B
 
 ## 📂 Files in this Repository
 * `cleaned_sales_data.xlsx`: The cleaned dataset along with the Data Dictionary and Pivot Tables.
-* `Task1_SQL_Extraction.sql`: The SQL script containing all queries used for data extraction.
-* `Superstore_Sales_Dashboard.pbix`: The interactive Power BI dashboard file.
+* `sales_queries.sql`: The SQL script containing all queries used for data extraction.
+* `Superstore_Sales_Analysis Dashboard.pbix`: The interactive Power BI dashboard file.
 * `Dashboard_Screenshot.png`: A visual snapshot of the final Power BI dashboard.
 * `Business_Insights_Report.pdf`: A detailed report highlighting key findings and recommendations.
 
