@@ -6,12 +6,12 @@ This repository contains the completion of **Task 1** for the Data Analytics & B
 ## 🛠️ Tools & Technologies Used
 * **Microsoft Excel:** Data Cleaning, Data Dictionary creation, and Advanced Pivot Tables.
 * **SQL:** Data Extraction, Aggregation, and answering critical business queries.
-* **Power BI / Tableau:** Interactive Dashboard creation and Data Visualization.
+* **Power BI :** Interactive Dashboard creation and Data Visualization.
 
 ## 🚀 Project Workflow
 1. **Data Cleaning (Excel):** Handled missing values, standardized formats, and ensured data integrity.
 2. **Data Extraction (SQL):** Wrote complex queries to identify top customers, profitable categories, and the impact of discounts on overall profit.
-3. **Data Visualization (Power BI/Tableau):** Designed an interactive dashboard featuring KPI cards, bar charts for regional sales, line charts for monthly trends, and slicers for dynamic filtering.
+3. **Data Visualization (Power BI):** Designed an interactive dashboard featuring KPI cards, bar charts for regional sales, line charts for monthly trends, and slicers for dynamic filtering.
 4. **Business Insights Generation:** Compiled a comprehensive report detailing key findings and strategic recommendations for the management.
 
 ## 📂 Files in this Repository
@@ -28,6 +28,5 @@ This repository contains the completion of **Task 1** for the Data Analytics & B
 * **Customer Retention:** A small number of top customers contribute to a large portion of total sales. Recommendation: Implement loyalty programs and personalized offers to retain these high-value clients.
 * **Discount Impact:** Excessive discounts heavily reduce overall profitability and sometimes lead to losses. Recommendation: Implement a controlled discount strategy, especially on low-margin products.
 * **Seasonal Trends:** Sales peak towards the end of the year, specifically in November and December. Recommendation: Prepare inventory and promotional campaigns ahead of Q4 to maximize revenue.
-
 ---
 *Developed by [Hrushikesh Santosh Khedkar] during the Maincrafts Technology Internship.*
