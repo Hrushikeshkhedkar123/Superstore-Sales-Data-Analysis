@@ -1,5 +1,4 @@
 # Superstore Sales Data Analysis 📊
-[Project Logo](Screenshot 2026-04-04 133524.png)
 
 ## 📝 Project Overview
 This repository contains the completion of **Task 1** for the Data Analytics & Business Intelligence Internship at Maincrafts Technology. The objective of this project is to analyze the Superstore Sales dataset to understand sales performance, profitability, regional variations, and the impact of discounts, ultimately providing actionable recommendations for business growth.
